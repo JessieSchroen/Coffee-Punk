@@ -72,3 +72,20 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/CoffeePunk/Intermediate
+/CoffeePunk/Saved/Config/CrashReportClient
+/CoffeePunk/Saved/Cooked
+/CoffeePunk/Saved/Shaders
+/CoffeePunk/Saved/StagedBuilds
+/CoffeePunk/Saved/Temp
+/CoffeePunk/Saved/Logs
+/CoffeePunk/Saved/Logs
+/CoffeePunk/Saved/Logs
+/CoffeePunk/Saved/Logs
+/CoffeePunk/Saved/Logs
+/CoffeePunk/Saved/Logs
+/CoffeePunk/Saved/Logs
+/CoffeePunk/Intermediate
+/CoffeePunk/Saved/MaterialStatsDebug
+/CoffeePunk/Saved/MaterialStats
+/CoffeePunk/Saved/Logs
